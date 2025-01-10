@@ -1,0 +1,14 @@
+C:\Users\Bruno\Documents\Dio\bin\Debug\net9.0\Dio.exe
+C:\Users\Bruno\Documents\Dio\bin\Debug\net9.0\Dio.deps.json
+C:\Users\Bruno\Documents\Dio\bin\Debug\net9.0\Dio.runtimeconfig.json
+C:\Users\Bruno\Documents\Dio\bin\Debug\net9.0\Dio.dll
+C:\Users\Bruno\Documents\Dio\bin\Debug\net9.0\Dio.pdb
+C:\Users\Bruno\Documents\Dio\obj\Debug\net9.0\Dio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\Documents\Dio\obj\Debug\net9.0\Dio.AssemblyInfoInputs.cache
+C:\Users\Bruno\Documents\Dio\obj\Debug\net9.0\Dio.AssemblyInfo.cs
+C:\Users\Bruno\Documents\Dio\obj\Debug\net9.0\Dio.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Documents\Dio\obj\Debug\net9.0\Dio.dll
+C:\Users\Bruno\Documents\Dio\obj\Debug\net9.0\refint\Dio.dll
+C:\Users\Bruno\Documents\Dio\obj\Debug\net9.0\Dio.pdb
+C:\Users\Bruno\Documents\Dio\obj\Debug\net9.0\Dio.genruntimeconfig.cache
+C:\Users\Bruno\Documents\Dio\obj\Debug\net9.0\ref\Dio.dll
