@@ -12,3 +12,4 @@ C:\Users\Bruno\Documents\Dio\obj\Debug\net9.0\refint\Dio.dll
 C:\Users\Bruno\Documents\Dio\obj\Debug\net9.0\Dio.pdb
 C:\Users\Bruno\Documents\Dio\obj\Debug\net9.0\Dio.genruntimeconfig.cache
 C:\Users\Bruno\Documents\Dio\obj\Debug\net9.0\ref\Dio.dll
+C:\Users\Bruno\Documents\Dio\obj\Debug\net9.0\Dio.sourcelink.json
