@@ -1,6 +1,9 @@
 ﻿using System.ComponentModel;
 using Dio.models;
 
+DateTime dataAtual = DateTime.Now.AddDays(2);
+Console.WriteLine(dataAtual.ToString("dd/MM/yyyy HH:mm"));
+
 Pessoa pessoas = new Pessoa();
 
 pessoas.Nome = "Bruno";
@@ -15,6 +18,7 @@ bool condicao = true;
 
 Console.WriteLine("Valor da variavel apresentação: " + apresentacao);
 Console.WriteLine("Valor da variavel quantidade: " + quantidade);
-Console.WriteLine("Valor da variavel altura: " + altura);
+Console.WriteLine("Valor da variavel altura: " + altura.ToString("0.00"));
 Console.WriteLine("Valor da variavel largura: " + largura);
 Console.WriteLine("Valor da variavel condição: " + condicao);
+
