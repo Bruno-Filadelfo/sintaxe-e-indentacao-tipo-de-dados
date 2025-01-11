@@ -22,3 +22,12 @@ Console.WriteLine("Valor da variavel altura: " + altura.ToString("0.00"));
 Console.WriteLine("Valor da variavel largura: " + largura);
 Console.WriteLine("Valor da variavel condição: " + condicao);
 
+//Combinando Operadores
+int a = 10;
+int b = 20;
+int c = 10 + 20;
+c = c + 5;
+c -= 2;
+
+Console.WriteLine(c);
+
