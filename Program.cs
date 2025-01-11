@@ -31,3 +31,10 @@ c -= 2;
 
 Console.WriteLine(c);
 
+//Cast - Casting
+int d = Convert.ToInt32("5");
+Console.WriteLine(d);
+
+int e = int.Parse("5");
+Console.WriteLine(e);
+
